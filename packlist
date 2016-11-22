@@ -3,7 +3,7 @@
 # wget https://raw.githubusercontent.com/genetikayos/cc-packages/master/packlist /etc/repositories/genetikayos
 
 name = getmethods
-  type = pastbin
+  type = pastebin
     url = sKLqTGrM
     filename = getmethods
   category = utility
@@ -12,7 +12,7 @@ name = getmethods
 end
 
 name = ae2-auto-stocker
-  type = pastbin
+  type = pastebin
     url = yac8keDW
     filename = ae2-auto-stocker
   category = utility
@@ -33,7 +33,7 @@ name = stockpile
 end
 
 name = github
-  type = pastbin
+  type = pastebin
     url = wPtGKMam
     filename = github
   category = utility
