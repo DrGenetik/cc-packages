@@ -1,31 +1,35 @@
 # pastebin run 4zyreNZy
 # packman install wget
+# wget https://raw.githubusercontent.com/genetikayos/cc-packages/master/packlist /etc/repositories/genetikayos
 
 name = getmethods
-	type = pastbin
-		url = sKLqTGrM
-		filename = getmethods
-	category = utility
-	version = 1.1
+  type = pastbin
+    url = sKLqTGrM
+    filename = getmethods
+  category = utility
+  version = 1.1
+  size = 3551
 end
 
 name = ae2-auto-stocker
-	type = pastbin
-		url = yac8keDW
-		filename = ae2-auto-stocker
-	category = utility
-	version = 0.11
+  type = pastbin
+    url = yac8keDW
+    filename = ae2-auto-stocker
+  category = utility
+  version = 0.11
+  size = 10945
 end
 
 name = stockpile
   type = github
-		author = sidoh
-		repository = stockpile
-		branch = master
-	category = utility
-	setup = bootstrap
-	target = /downloads/stockpile
-	version = 0.1.2
+    author = sidoh
+    repository = stockpile
+    branch = master
+  category = utility
+  setup = bootstrap
+  target = /downloads/stockpile
+  version = 0.1.2
+  size = 0
 end
 
 name = github
@@ -34,4 +38,5 @@ name = github
     filename = github
   category = utility
   version = 0.0
+  size = 4701
 end
