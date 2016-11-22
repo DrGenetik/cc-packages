@@ -1,3 +1,5 @@
+# Install packman: pastebin run 4zyreNZy
+
 name = getmethods
   type = pastebin
     url = sKLqTGrM
@@ -7,6 +9,7 @@ name = getmethods
   size = 3551
 end
 
+# http://www.computercraft.info/forums2/index.php?/topic/24624-ae2-stocker-autocraft-minimum-inventory-levels/
 name = ae2-auto-stocker
   type = pastebin
     url = yac8keDW
@@ -16,6 +19,7 @@ name = ae2-auto-stocker
   size = 10945
 end
 
+https://www.reddit.com/r/feedthebeast/comments/41ncgm/stockpile_a_computercraft_program_to_autostock/
 name = stockpile
   type = github
     author = sidoh
@@ -35,4 +39,69 @@ name = github
   category = utility
   version = 0.0
   size = 4701
+end
+
+# https://www.reddit.com/r/feedthebeast/comments/244izw/computercraft_spawner_system_with_mob_additions/
+name = caption-spawner-control
+  type = pastebin
+    url = RUVP3cmJ
+    filename = caption-spawner-control
+  category = utility
+  version = 0.0
+  size = 0
+end
+name = caption-spawner-turtle
+  type = pastebin
+    url = GaZ2uwUN
+    filename = caption-spawner-turtle
+  category = utility
+  version = 0.0
+  size = 0
+end
+
+# https://www.reddit.com/r/feedthebeast/comments/23y9xp/computer_controlled_spawners/
+name = t0varich-spawner-control
+  type = pastebin
+    url = Guxya8SB
+    filename = t0varich-spawner-control
+  category = utility
+  version = 0.0
+  size = 0
+end
+name = t0varich-spawner-turtle
+  type = pastebin
+    url = zdasbuxy
+    filename = t0varich-spawner-turtle
+  category = utility
+  version = 0.0
+  size = 0
+end
+
+# https://www.youtube.com/watch?v=cPGYSG19Y2U
+name = mizhgan-spawner-control
+  type = pastebin
+    url = eqVEnu2H
+    filename = mizhgan-spawner-control
+  category = utility
+  version = 0.0
+  size = 0
+end
+name = mizhgan-spawner-turtle
+  type = pastebin
+    url = bBBxyeV5
+    filename = mizhgan-spawner-turtle
+  category = utility
+  version = 0.0
+  size = 0
+end
+
+# http://www.computercraft.info/forums2/index.php?/topic/15593-derkochs-ccgui-api-an-oop-attempt/
+name = rbb
+  type = pastebin
+    url = SaCnHG5y
+    filename = rbbupdater
+  category = api
+  setup = rbbupdater
+  version = 1.0
+  size = 0
 end
