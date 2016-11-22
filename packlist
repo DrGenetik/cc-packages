@@ -1,7 +1,3 @@
-# pastebin run 4zyreNZy
-# packman install wget
-# wget https://raw.githubusercontent.com/genetikayos/cc-packages/master/packlist /etc/repositories/genetikayos
-
 name = getmethods
   type = pastebin
     url = sKLqTGrM
